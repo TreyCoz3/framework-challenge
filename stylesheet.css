@@ -1,0 +1,15 @@
+
+.row{
+    margin-top: 50px;
+    display: flex;
+    flex-direction:row ;
+    padding: 10px; 
+    justify-content: center;
+    
+    
+}
+
+.card{
+    margin: 10px;
+   
+}
