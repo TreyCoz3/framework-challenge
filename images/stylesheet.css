@@ -1,0 +1,14 @@
+
+.row{
+    margin-top: 50px;
+    display: flex;
+    flex-direction:row ;
+    padding: 10px; 
+    justify-content: center;
+    background-color: black;
+}
+
+.card{
+    margin: 10px;
+   background-color: black;
+}
